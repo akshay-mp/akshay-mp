@@ -78,28 +78,10 @@ Building MCP (Model Context Protocol) based solutions for seamless integration b
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay-mp&show_icons=true&theme=dark)
-
----
-
-## 🌟 Open to Opportunities
-
-**Currently seeking**: Senior GenAI Engineer, ML Engineer, or specialized AI Architect roles
-
-**Interested in**: 
-- Companies building cutting-edge AI/ML products
-- Organizations focused on agentic AI and autonomous systems
-- Roles involving LLM optimization and fine-tuning at scale
-- Remote or relocation opportunities (Open to US, Europe, Gulf region)
-
----
-
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Akshay M P](https://www.linkedin.com/in/akshay-m-p/)
-- **Email**: [Contact](mailto:your-email@example.com)
+- **Email**: [Contact](mailto:akshaymp.1810@gmail.com)
 - **HuggingFace**: [akshay-mp](https://huggingface.co/akshay-mp)
 - **Location**: Bengaluru, India 🇮🇳
 
